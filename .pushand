@@ -1,0 +1,2 @@
+#! /bin/bash
+phd $0 mfs_rails_server mfs_rails_server
