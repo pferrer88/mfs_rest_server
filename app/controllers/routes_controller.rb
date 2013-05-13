@@ -2,6 +2,7 @@ class RoutesController < InheritedResources::Base
   respond_to :json
   
   def index
+    
     @routes = Route.includes( :stops => 
       {:contract=>
         [
