@@ -1,0 +1,25 @@
+= form_for @stop do |f|
+  - if @stop.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@stop.errors.count, "error")} prohibited this stop from being saved:"
+      %ul
+        - @stop.errors.full_messages.each do |msg|
+          %li= msg
+
+  .field
+    = f.label :route
+    = f.text_field :route
+  .field
+    = f.label :contract
+    = f.text_field :contract
+  .field
+    = f.label :sequence
+    = f.number_field :sequence
+  .field
+    = f.label :isComplete
+    = f.check_box :isComplete
+  .field
+    = f.label :completeDT
+    = f.date_select :completeDT
+  .actions
+    = f.submit 'Save'

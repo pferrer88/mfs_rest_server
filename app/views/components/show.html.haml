@@ -1,0 +1,30 @@
+%p#notice= notice
+
+%p
+  %b Service:
+  = @component.service
+%p
+  %b Code:
+  = @component.code
+%p
+  %b Name:
+  = @component.name
+%p
+  %b Shortname:
+  = @component.shortName
+%p
+  %b Description:
+  = @component.description
+%p
+  %b Isactive:
+  = @component.isActive
+%p
+  %b Uomcode:
+  = @component.uomCode
+%p
+  %b Uomunit:
+  = @component.uomUnit
+
+= link_to 'Edit', edit_component_path(@component)
+\|
+= link_to 'Back', components_path

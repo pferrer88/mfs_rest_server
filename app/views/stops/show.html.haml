@@ -1,0 +1,21 @@
+%p#notice= notice
+
+%p
+  %b Route:
+  = @stop.route
+%p
+  %b Contract:
+  = @stop.contract
+%p
+  %b Sequence:
+  = @stop.sequence
+%p
+  %b Iscomplete:
+  = @stop.isComplete
+%p
+  %b Completedt:
+  = @stop.completeDT
+
+= link_to 'Edit', edit_stop_path(@stop)
+\|
+= link_to 'Back', stops_path

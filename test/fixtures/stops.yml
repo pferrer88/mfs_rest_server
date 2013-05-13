@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  route: 
+  contract: 
+  sequence: 1
+  isComplete: false
+  completeDT: 2013-05-08
+
+two:
+  route: 
+  contract: 
+  sequence: 1
+  isComplete: false
+  completeDT: 2013-05-08

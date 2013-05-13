@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  customer: 
+  location: 
+  earliestCurrentServiceDate: 2013-05-08
+
+two:
+  customer: 
+  location: 
+  earliestCurrentServiceDate: 2013-05-08

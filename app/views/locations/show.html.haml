@@ -1,0 +1,42 @@
+%p#notice= notice
+
+%p
+  %b Customer:
+  = @location.customer
+%p
+  %b Destination:
+  = @location.destination
+%p
+  %b Contact:
+  = @location.contact
+%p
+  %b Name:
+  = @location.name
+%p
+  %b Address1:
+  = @location.address1
+%p
+  %b Address2:
+  = @location.address2
+%p
+  %b City:
+  = @location.city
+%p
+  %b State:
+  = @location.state
+%p
+  %b Postalcode:
+  = @location.postalCode
+%p
+  %b Isactive:
+  = @location.isActive
+%p
+  %b Lastmodifiedon:
+  = @location.lastModifiedOn
+%p
+  %b Lastmodifiedby:
+  = @location.lastModifiedBy
+
+= link_to 'Edit', edit_location_path(@location)
+\|
+= link_to 'Back', locations_path

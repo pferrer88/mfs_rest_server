@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  contract_service: 
+  component: 
+  price: 1.5
+  chargeCode: 1
+
+two:
+  contract_service: 
+  component: 
+  price: 1.5
+  chargeCode: 1

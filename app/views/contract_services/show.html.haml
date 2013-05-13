@@ -1,0 +1,18 @@
+%p#notice= notice
+
+%p
+  %b Driver:
+  = @contract_service.driver
+%p
+  %b Contract:
+  = @contract_service.contract
+%p
+  %b Service:
+  = @contract_service.service
+%p
+  %b Earliestcurrentservicedate:
+  = @contract_service.earliestCurrentServiceDate
+
+= link_to 'Edit', edit_contract_service_path(@contract_service)
+\|
+= link_to 'Back', contract_services_path

@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  customer: 
+  destination: 
+  contact: 
+  name: MyString
+  address1: MyString
+  address2: MyString
+  city: MyString
+  state: MyString
+  postalCode: 1
+  isActive: false
+  lastModifiedOn: 2013-05-08
+  lastModifiedBy: 2013-05-08
+
+two:
+  customer: 
+  destination: 
+  contact: 
+  name: MyString
+  address1: MyString
+  address2: MyString
+  city: MyString
+  state: MyString
+  postalCode: 1
+  isActive: false
+  lastModifiedOn: 2013-05-08
+  lastModifiedBy: 2013-05-08

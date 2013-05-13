@@ -1,0 +1,21 @@
+%p#notice= notice
+
+%p
+  %b Code:
+  = @service.code
+%p
+  %b Name:
+  = @service.name
+%p
+  %b Shortname:
+  = @service.shortName
+%p
+  %b Description:
+  = @service.description
+%p
+  %b Isactive:
+  = @service.isActive
+
+= link_to 'Edit', edit_service_path(@service)
+\|
+= link_to 'Back', services_path

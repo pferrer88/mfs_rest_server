@@ -1,0 +1,25 @@
+%h1 Listing contract_services
+
+%table
+  %tr
+    %th Driver
+    %th Contract
+    %th Service
+    %th Earliestcurrentservicedate
+    %th
+    %th
+    %th
+
+  - @contract_services.each do |contract_service|
+    %tr
+      %td= contract_service.driver
+      %td= contract_service.contract
+      %td= contract_service.service
+      %td= contract_service.earliestCurrentServiceDate
+      %td= link_to 'Show', contract_service
+      %td= link_to 'Edit', edit_contract_service_path(contract_service)
+      %td= link_to 'Destroy', contract_service, :method => :delete, :data => { :confirm => 'Are you sure?' }
+
+%br
+
+= link_to 'New Contract service', new_contract_service_path

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  driver: 
+  name: MyString
+  startDT: 2013-05-08
+  isComplete: false
+  completeDT: 2013-05-08
+
+two:
+  driver: 
+  name: MyString
+  startDT: 2013-05-08
+  isComplete: false
+  completeDT: 2013-05-08

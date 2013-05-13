@@ -1,0 +1,27 @@
+%h1 Listing stops
+
+%table
+  %tr
+    %th Route
+    %th Contract
+    %th Sequence
+    %th Iscomplete
+    %th Completedt
+    %th
+    %th
+    %th
+
+  - @stops.each do |stop|
+    %tr
+      %td= stop.route
+      %td= stop.contract
+      %td= stop.sequence
+      %td= stop.isComplete
+      %td= stop.completeDT
+      %td= link_to 'Show', stop
+      %td= link_to 'Edit', edit_stop_path(stop)
+      %td= link_to 'Destroy', stop, :method => :delete, :data => { :confirm => 'Are you sure?' }
+
+%br
+
+= link_to 'New Stop', new_stop_path

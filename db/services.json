@@ -1,0 +1,2455 @@
+[
+	{
+	    "code": "ABSORBENTS",
+	    "name": "New Absorbents",
+	    "shortName": "ABS",
+	    "description": "New Absorbents",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "105000",
+	            "name": "Oil-Dri Absorbents",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "106040",
+	            "name": "Oil Dri Premium DO NOT USE",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "19\"LX15\"WGRAYPAD",
+	            "name": "Universal Fine Fiber Gray Pads",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "BOX",
+	                    "unit": "Box"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOA-BOOM-510-WHITE",
+	            "name": "5\"x10' White Boom (4 per case)",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOA-BPL-200-GREY",
+	            "name": "15\"X18\" Universal light pad",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOA-BPL-200-WHITE",
+	            "name": "15\"X18\" Oil only lightDoNotUse",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOA-NBPL-200-GREY",
+	            "name": "AOANBPL200GREY 15\"x18\" Natural",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOA-SOK-3480",
+	            "name": "3\"X48\" Oil only sock",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOA-SOK-348U",
+	            "name": "3\"x48\" Unv Sock Poly Fil",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOA-SPILLKIT-BAG-1",
+	            "name": "Portable Spill Kit",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "KIT",
+	                    "unit": "Kit"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "CELL30",
+	            "name": "Universal Cellulose Loose 30#",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "GLOVES",
+	            "name": "Chemical Gloves",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "GRB150M",
+	            "name": "Universal Bonded Roll 30\"x150'",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90410",
+	            "name": "20 Gallon MRO Spillkit",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "KIT",
+	                    "unit": "Kit"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90435",
+	            "name": "5 Gallon Spillkit",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90530",
+	            "name": "PerforatedPads16X18",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90540",
+	            "name": "PerforatedRoll30S150DoNotUse",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90667",
+	            "name": "95 Gallon MRO Spillkit",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90691",
+	            "name": "Poly Backed Rug Do Not Use",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90696",
+	            "name": "Garage Guard Universal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90725",
+	            "name": "Drum Top Pads-Universal 25",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90781",
+	            "name": "Smart Roll Do Not Use",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "BOX",
+	                    "unit": "Box"
+	                },
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90790",
+	            "name": "General Socks - Universal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90851",
+	            "name": "Oil Only Pads",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L90908",
+	            "name": "15\"x60\":10\"L Roll - Universal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L91001",
+	            "name": "Thermal Bonded Pads",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "L91002",
+	            "name": "Thermal Bonded Roll",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NONSTOCKA",
+	            "name": "Nonstock Absorbent",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "P1600SL",
+	            "name": "30 Gallon Lab Pack",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "UESSPILLKIT",
+	            "name": "55 Gallon Spill Kit W/Lid",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "WB510SN",
+	            "name": "WB510SN 5\"x10' Wht Boom 4/case",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "WP100GL",
+	            "name": "WP100GL 15\"x18\" Oil Only 100/p",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "WP200S",
+	            "name": "WP200S 15\"x19\" Oil only 200/pk",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "ANALYTICAL SERVICES",
+	    "name": "Analytical Services",
+	    "shortName": "AS",
+	    "description": "Analytical Services",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "ANALYTICAL",
+	            "name": "Analytical Services",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "MATERIALANALYSIS",
+	            "name": "Material Analysis",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "BURNER FUEL",
+	    "name": "Burner Fuel",
+	    "shortName": "BF",
+	    "description": "Burner Fuel",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "AVISTAOIL",
+	            "name": "Avista On Spec Used Oil",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SPFUEL",
+	            "name": "On-Specification Burner Fuel",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "CONSULTING",
+	    "name": "Consulting",
+	    "shortName": "CO",
+	    "description": "Consulting",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "BUSINESSPROCESSIMPRO",
+	            "name": "Business Process Improvement",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "COMPLIANCESUPPORT",
+	            "name": "Compliance Support",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "GENERAL",
+	            "name": "General",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PERMITASSISTANCE",
+	            "name": "Permit Assistance",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SPCCPLANS",
+	            "name": "SPCC Plans",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TRAINING",
+	            "name": "Training",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "CONTAINERIZED WASTE",
+	    "name": "Containerized Waste",
+	    "shortName": "CW",
+	    "description": "Containerized Waste",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "30YARDROLLOFF",
+	            "name": "30 Yard Roll Off",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "ABSORBCOL",
+	            "name": "Spent Absorbents Collections",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "35GALDRUM",
+	                    "unit": "35Gal Drum"
+	                },
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                },
+	                {
+	                    "code": "BIN",
+	                    "unit": "Bins"
+	                },
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "GREASEDRUM",
+	            "name": "Grease Drum / Off Spec",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "35GALDRUM",
+	                    "unit": "35Gal Drum"
+	                },
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "HAZARDOUSMATERIALS",
+	            "name": "Hazardous Waste Material",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NONHAZMATERIALS",
+	            "name": "Non Haz Waste Materials",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "35GALDRUM",
+	                    "unit": "35Gal Drum"
+	                },
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                },
+	                {
+	                    "code": "5GALLON",
+	                    "unit": "5GalBucket"
+	                },
+	                {
+	                    "code": "BIN",
+	                    "unit": "Bins"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                },
+	                {
+	                    "code": "TOTE",
+	                    "unit": "Tote"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "REMEDIATIONFEE",
+	            "name": "State Remediation Fee",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "TON",
+	                    "unit": "Ton"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "WHEELWEIGHTS",
+	            "name": "Weights from Wheels",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "2.5GALLON",
+	                    "unit": "2.5GalBuck"
+	                },
+	                {
+	                    "code": "5GALLON",
+	                    "unit": "5GalBucket"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "CONTAINERS",
+	    "name": "Containers",
+	    "shortName": "CONT",
+	    "description": "Containers",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "55GALBLUEPLASTICDRUM",
+	            "name": "55 Gallon Blue Plastic OpenT",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "BINRENTAL",
+	            "name": "Filter Bin Rental",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "BINSETUP",
+	            "name": "Filter Bin Set-Up",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "BLUEFILTERCARTSETUP",
+	            "name": "Blue Filter Cart Set Up",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "BUCKETSETUP",
+	            "name": "Bucket for Wheel Weights",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "DRUMSALES",
+	            "name": "Drum Sales",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "FILTERSETUP",
+	            "name": "Filter Drum Set-Up",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "HEAVYDUTYOILBAGSCLR",
+	            "name": "Heavy Duty Oil Bags Clear",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CASE",
+	                    "unit": "Case"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TANKRENTAL",
+	            "name": "Tank Rental",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "MONTH",
+	                    "unit": "Month"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TANKSALES",
+	            "name": "Tank Sales",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TOTERENTAL",
+	            "name": "Tote Rental",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "MONTH",
+	                    "unit": "Month"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TOTESALES",
+	            "name": "Tote Sales (sold as is)",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "CUSTOMER FIRST",
+	    "name": "Customer First Plans",
+	    "shortName": "CF",
+	    "description": "Customer First Plans",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "BRONZEPLAN",
+	            "name": "Customer First Plan Bronze",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "GOLDPLAN",
+	            "name": "Customer First Plan Gold",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SILVERPLAN",
+	            "name": "Customer First Plan Silver",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "DEGREASER",
+	    "name": "Degreaser Items",
+	    "shortName": "D",
+	    "description": "Degreaser Items",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "AOD3035444",
+	            "name": "30 Gal Drum Oil Eater Degrease",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "30GALDRUM",
+	                    "unit": "30Gal Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOD3235362",
+	            "name": "Degreaser 32 OZ Spray Bottle",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOD5535389",
+	            "name": "55 Gal Drum Oil Eater Degrease",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "AOD5G35438",
+	            "name": "5 Gal Pail Oil Eater Degreaser",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "5GALLON",
+	                    "unit": "5GalBucket"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "MISC",
+	    "name": "Miscellaneous Services",
+	    "shortName": "MISC",
+	    "description": "Miscellaneous Services",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "20001",
+	            "name": "Express Oil Credit",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "CHLO-D-TECT-KIT",
+	            "name": "Chlo-D-Tect Kit",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "FILTERHOUSING",
+	            "name": "Filter Housing",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "LEAKDETECTOR",
+	            "name": "Leak Detector",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "MISCTRANSPORTATION",
+	            "name": "Transportation Miscellaneous",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PACKAGING",
+	            "name": "Packaging",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TRADINGPRODUCT",
+	            "name": "Trading Product",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TRUCKPUMP",
+	            "name": "Truck Pump Out",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "WWG120",
+	            "name": "Cuda Industrial Cleaner 50#",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "NEW ANTIFREEZE",
+	    "name": "New Antifreeze",
+	    "shortName": "NA",
+	    "description": "New Antifreeze",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "ANTI50/50GOLD",
+	            "name": "Premium Gold 50/50 Antifreeze",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "ANTI50/50GREEN",
+	            "name": "Traditional 50/50 Antifreeze",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "ANTIFULLSTRENGTHGOLD",
+	            "name": "Full Strength Gold Antifreeze",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "ANTIFULLSTRENGTHGREE",
+	            "name": "Full Strength Green Antifreeze",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "OFF SPEC FUEL/ OTHER",
+	    "name": "Off Spec Fuel / Other Liquids",
+	    "shortName": "SF",
+	    "description": "Off Spec Fuel / Other Liquids",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "AVIATIONFUELS",
+	            "name": "Aviation Fuels (off spec)",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "BIODIESEL",
+	            "name": "Bio Diesel",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "DIESEL FUEL",
+	            "name": "Diesel Fuel",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "DIESELGASMIXTURE",
+	            "name": "Diesel & Gas Mixture",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "DIESELOILMIXTURE",
+	            "name": "Diesel & Oil Mixture",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "DIESELWATERMIXTURE",
+	            "name": "Diesel Water Mixture",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "FUELWATERMIX",
+	            "name": "Fuel Water Mix",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "GASWATERMIXTURE",
+	            "name": "Gas & Water Mixture",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "HYDRAULICFLUID",
+	            "name": "Hydraulic Fluids",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "JETFUEL",
+	            "name": "Jet Fuel (off spec)",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "KEROSENE",
+	            "name": "Kerosene",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "METALWORKING FLUID",
+	            "name": "Metalworking Fluids",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "METHYLATEDGLYCERIN",
+	            "name": "Methylated Glycerin",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "MINERALSPIRITS",
+	            "name": "Mineral Spirits",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NONHAZUSEDSOLVENT",
+	            "name": "Non Haz Used Solvent Collected",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TRANSFLUID",
+	            "name": "Transmission Fluid",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "OILY WATER",
+	    "name": "Oily Water",
+	    "shortName": "OW",
+	    "description": "Oily Water",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "EXCESSWATER",
+	            "name": "Excess Water Charge",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "OILWATERMIXTURE",
+	            "name": "DO NOT USE",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "OILYWATER",
+	            "name": "Oily Water Collection*",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "OILYWATERANALYSIS",
+	            "name": "Oily Water Analysis",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "OILYWATERDISPOSAL",
+	            "name": "Oily Water Disposal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "OILYWATERPROCESSING",
+	            "name": "Oily Water Processing",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "OILYWATERTRANS",
+	            "name": "Oily Water Transportation",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "PARTS CLEANER",
+	    "name": "Parts Cleaner",
+	    "shortName": "PC",
+	    "description": "Parts Cleaner",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "PARTSCLEANLEASE",
+	            "name": "Parts Cleaner Lease",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "MONTH",
+	                    "unit": "Month"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PARTSCLEANSALES",
+	            "name": "Parts Cleaner Sale",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PARTSLABOR",
+	            "name": "Parts Cleaner Repair Labor",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PARTSPARTS",
+	            "name": "Parts Cleaner Repair Parts",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PARTSSERVICE",
+	            "name": "Parts Washer Service Flat fee",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PARTSSOLUTIONAQUEOUS",
+	            "name": "Parts Solution (Aqueous)",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PARTSSOLUTIONMINERAL",
+	            "name": "Parts Cleaner (Mineral Spirts)",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "SEPARATOR SERVICE",
+	    "name": "Separator Service",
+	    "shortName": "SS",
+	    "description": "Separator Service",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "SEPARATOR",
+	            "name": "Oil Water Seperator",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SEPARATORANALYSIS",
+	            "name": "Separator Analysis",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SEPARATORDISPOSAL",
+	            "name": "Separator Disposal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SEPARATORLIQUIDREMOV",
+	            "name": "Separator Liquid Removal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SEPARATORSKIMMING",
+	            "name": "Separator Skimming",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SEPARATORTRANSPORTAT",
+	            "name": "Separator Transportation",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SEPARATORTREATMENT",
+	            "name": "Separator Treatment",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "SHIPPING / HANDLING",
+	    "name": "Shipping and Handling",
+	    "shortName": "SH",
+	    "description": "Shipping and Handling",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "DEMMURAGE",
+	            "name": "Demmurage",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "FREIGHT",
+	            "name": "Freight Charges",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUP",
+	            "name": "Driver Stopped but No Pickup",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPANTIFREEZE",
+	            "name": "No Pickup Antifreeze",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPDIYUSEDOIL",
+	            "name": "No Pickup DIY Used Oil",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPDRUMDISPOSAL",
+	            "name": "No Pickup Drum Disposal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPFILTER",
+	            "name": "Driver Stop No Pickup Filter",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPFILTERBIN",
+	            "name": "No Pickup Filter Bin",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "BIN",
+	                    "unit": "Bins"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPFILTERCART",
+	            "name": "No Pickup Filter Cart",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CART",
+	                    "unit": "65 Gallon"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPFILTERDRUM",
+	            "name": "No Pickup Filter Drum",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPFUELWATERMIX",
+	            "name": "Driver Stop No Pickup Fuel/Wat",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPOIL",
+	            "name": "Driver Stopped No Pickup Oil",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "NOPICKUPWHEELWEIGHTS",
+	            "name": "No Pickup Wheel Weights",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PUMPING",
+	            "name": "Pumping",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SHIPHANDLE",
+	            "name": "Shipping and Handling",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                },
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "STORAGE",
+	            "name": "Storage",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TRANSPORTATION",
+	            "name": "Transportation",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "MILE",
+	                    "unit": "Mileage"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "UNIVERSAL WASTE DISP",
+	    "name": "Universal Waste Disposal",
+	    "shortName": "UWD",
+	    "description": "Universal Waste Disposal",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "BATTERIES",
+	            "name": "Batteries",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "DRUMDISPOSAL",
+	            "name": "Drum Disposal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "30GALDRUM",
+	                    "unit": "30Gal Drum"
+	                },
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                },
+	                {
+	                    "code": "5GALLON",
+	                    "unit": "5GalBucket"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "FLOURESCENTLIGHTBULB",
+	            "name": "Flourescent Light Bulbs",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "BOX",
+	                    "unit": "Box"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "PLASTICQUARTBOTTLES",
+	            "name": "Plastic Oil Quart Bottles",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "55GALDRUM",
+	                    "unit": "55Gal Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TOTEDISPOSAL",
+	            "name": "Tote Disposal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "USEDTIRES",
+	            "name": "Used Tires",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "USED ANTIFREEZE",
+	    "name": "Used Antifreeze",
+	    "shortName": "UA",
+	    "description": "Used Antifreeze",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "ANTIANALYSIS",
+	            "name": "Antifreeze Analysis",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "ANTIDISPOSAL",
+	            "name": "Antifreeze Disposal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "ANTIFREEZE",
+	            "name": "Antifreeze Collection*",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "ANTIPROCESSING",
+	            "name": "Antifreeze Processing",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "ANTITRANS",
+	            "name": "Antifreeze Transportation",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "EXCESSANTIFREEZE",
+	            "name": "Excess Antifreeze Charge",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "USED OIL",
+	    "name": "Used oil",
+	    "shortName": "UO",
+	    "description": "Used oil",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "DIYUSEDOIL",
+	            "name": "DIY Used Oil",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TRUCK",
+	            "name": "Truck Mobilization Fee",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TRUCKCHARGE",
+	            "name": "Truck Charge",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "USEDOIL",
+	            "name": "Used Oil",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "USED OIL FILTERS",
+	    "name": "Used Oil Filters",
+	    "shortName": "UOF",
+	    "description": "Used Oil Filters",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "BLUEFILTERCART",
+	            "name": "Blue Filter Carts",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "CART",
+	                    "unit": "65 Gallon"
+	                },
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "EXCESSFILTERDRUM",
+	            "name": "Excess Filter Drum Charge",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "FILTER",
+	            "name": "Used Filters*",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "BIN",
+	                    "unit": "Bins"
+	                },
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "FILTERDISPOSAL",
+	            "name": "Filter Disposal(DoNotUse)",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "BIN",
+	                    "unit": "Bins"
+	                },
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "SCRAPMETAL",
+	            "name": "Scrap Steel Sale",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "TON",
+	                    "unit": "Ton"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "VACUUM SERVICES",
+	    "name": "Vacuum Services",
+	    "shortName": "VS",
+	    "description": "Vacuum Services",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "41000",
+	            "name": "Vac Flat Rate for all Services",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                },
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41100",
+	            "name": "Vacuum Truck Liquid Removal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                },
+	                {
+	                    "code": "POUND",
+	                    "unit": "Pound"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41200",
+	            "name": "Vacuum Trench Fee",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "FOOT",
+	                    "unit": "Foot"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41300",
+	            "name": "Vacuum Truck Mobilization Fee",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41310",
+	            "name": "Vacuum Truck Fee",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41320",
+	            "name": "Vacuum Truck Mileage Fee",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "MILE",
+	                    "unit": "Mileage"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41330",
+	            "name": "Jetter Service(Minimum 1 HR)",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41400",
+	            "name": "Vacuum Truck Analytical",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41410",
+	            "name": "Pressure Wash",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41500",
+	            "name": "Vacuum Truck Sludge Removal",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "DRUM",
+	                    "unit": "Drum"
+	                },
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                },
+	                {
+	                    "code": "POUND",
+	                    "unit": "Pound"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "41600",
+	            "name": "After Hours Emergency Fee",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                },
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "54300",
+	            "name": "Vacuum Services Solidification",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "POUND",
+	                    "unit": "Pound"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "FUELSURCHARGE",
+	            "name": "Fuel Surcharge Vacuum Service",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "EA",
+	                    "unit": "Each"
+	                }
+	            ]
+	        },
+	        {
+	            "code": "TECHNICIANASST",
+	            "name": "Technician Assistant Vac Srv",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "HOUR",
+	                    "unit": "Hours"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "code": "WINDSHEILD WASHER FL",
+	    "name": "Windshield Washer Fluid",
+	    "shortName": "WWF",
+	    "description": "Windshield Washer Fluid",
+	    "isActive": "1",
+	    "components": [
+	        {
+	            "code": "WASHER FLUID",
+	            "name": "Washer Fluid",
+	            "description": "",
+	            "isActive": "1",
+	            "uoms": [
+	                {
+	                    "code": "GAL",
+	                    "unit": "Gallon"
+	                }
+	            ]
+	        }
+	    ]
+	}
+	]

@@ -1,0 +1,22 @@
+= form_for @contract_service do |f|
+  - if @contract_service.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@contract_service.errors.count, "error")} prohibited this contract_service from being saved:"
+      %ul
+        - @contract_service.errors.full_messages.each do |msg|
+          %li= msg
+
+  .field
+    = f.label :driver
+    = f.text_field :driver
+  .field
+    = f.label :contract
+    = f.text_field :contract
+  .field
+    = f.label :service
+    = f.text_field :service
+  .field
+    = f.label :earliestCurrentServiceDate
+    = f.date_select :earliestCurrentServiceDate
+  .actions
+    = f.submit 'Save'

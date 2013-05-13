@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  service: 
+  code: MyString
+  name: MyString
+  shortName: MyString
+  description: MyString
+  isActive: false
+  uomCode: MyString
+  uomUnit: MyString
+
+two:
+  service: 
+  code: MyString
+  name: MyString
+  shortName: MyString
+  description: MyString
+  isActive: false
+  uomCode: MyString
+  uomUnit: MyString

@@ -1,0 +1,15 @@
+%p#notice= notice
+
+%p
+  %b Customer:
+  = @contract.customer
+%p
+  %b Location:
+  = @contract.location
+%p
+  %b Earliestcurrentservicedate:
+  = @contract.earliestCurrentServiceDate
+
+= link_to 'Edit', edit_contract_path(@contract)
+\|
+= link_to 'Back', contracts_path

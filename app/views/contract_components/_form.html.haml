@@ -1,0 +1,22 @@
+= form_for @contract_component do |f|
+  - if @contract_component.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@contract_component.errors.count, "error")} prohibited this contract_component from being saved:"
+      %ul
+        - @contract_component.errors.full_messages.each do |msg|
+          %li= msg
+
+  .field
+    = f.label :contract_service
+    = f.text_field :contract_service
+  .field
+    = f.label :component
+    = f.text_field :component
+  .field
+    = f.label :price
+    = f.text_field :price
+  .field
+    = f.label :chargeCode
+    = f.number_field :chargeCode
+  .actions
+    = f.submit 'Save'

@@ -1,0 +1,23 @@
+%h1 Listing drivers
+
+%table
+  %tr
+    %th Name
+    %th Username
+    %th Code
+    %th
+    %th
+    %th
+
+  - @drivers.each do |driver|
+    %tr
+      %td= driver.name
+      %td= driver.username
+      %td= driver.code
+      %td= link_to 'Show', driver
+      %td= link_to 'Edit', edit_driver_path(driver)
+      %td= link_to 'Destroy', driver, :method => :delete, :data => { :confirm => 'Are you sure?' }
+
+%br
+
+= link_to 'New Driver', new_driver_path

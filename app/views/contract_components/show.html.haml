@@ -1,0 +1,18 @@
+%p#notice= notice
+
+%p
+  %b Contract service:
+  = @contract_component.contract_service
+%p
+  %b Component:
+  = @contract_component.component
+%p
+  %b Price:
+  = @contract_component.price
+%p
+  %b Chargecode:
+  = @contract_component.chargeCode
+
+= link_to 'Edit', edit_contract_component_path(@contract_component)
+\|
+= link_to 'Back', contract_components_path

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  driver: 
+  contract: 
+  service: 
+  earliestCurrentServiceDate: 2013-05-08
+
+two:
+  driver: 
+  contract: 
+  service: 
+  earliestCurrentServiceDate: 2013-05-08

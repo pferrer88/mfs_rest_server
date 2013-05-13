@@ -1,0 +1,25 @@
+%h1 Listing contract_components
+
+%table
+  %tr
+    %th Contract service
+    %th Component
+    %th Price
+    %th Chargecode
+    %th
+    %th
+    %th
+
+  - @contract_components.each do |contract_component|
+    %tr
+      %td= contract_component.contract_service
+      %td= contract_component.component
+      %td= contract_component.price
+      %td= contract_component.chargeCode
+      %td= link_to 'Show', contract_component
+      %td= link_to 'Edit', edit_contract_component_path(contract_component)
+      %td= link_to 'Destroy', contract_component, :method => :delete, :data => { :confirm => 'Are you sure?' }
+
+%br
+
+= link_to 'New Contract component', new_contract_component_path
