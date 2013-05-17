@@ -1,5 +1,4 @@
-%h1 New component
-
-= render 'form'
-
-= link_to 'Back', components_path
+- model_class = Component
+.page-header
+  %h1=t '.title', :default => [:'helpers.titles.new', 'New %{model}'], :model => model_class.model_name.human
+= render :partial => "form"

@@ -1,7 +1,4 @@
-%h1 Editing driver
-
-= render 'form'
-
-= link_to 'Show', @driver
-\|
-= link_to 'Back', drivers_path
+- model_class = Driver
+.page-header
+  %h1=t '.title', :default => [:'helpers.titles.edit', 'Edit %{model}'], :model => model_class.model_name.human
+= render :partial => "form"

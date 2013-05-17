@@ -29,7 +29,9 @@ gem "haml-rails", ">= 0.3.4", :group => :development
 # gem "devise", ">= 2.1.2"
 # gem "cancan", ">= 1.6.8"
 # gem "rolify", ">= 3.1.0"
-gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+gem "therubyracer"
+gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
+gem "twitter-bootstrap-rails"
 gem "simple_form"
 gem 'kaminari'
 gem 'httparty'

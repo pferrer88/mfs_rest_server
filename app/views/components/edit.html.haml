@@ -1,7 +1,4 @@
-%h1 Editing component
-
-= render 'form'
-
-= link_to 'Show', @component
-\|
-= link_to 'Back', components_path
+- model_class = Component
+.page-header
+  %h1=t '.title', :default => [:'helpers.titles.edit', 'Edit %{model}'], :model => model_class.model_name.human
+= render :partial => "form"
